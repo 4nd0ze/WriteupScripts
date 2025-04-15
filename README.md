@@ -1,3 +1,7 @@
 # WriteupScripts
-
 My writeup scripts are designed to supplement the hard work and dedication of those who have provided full, detailed writeups for their CTF journeys. I am trying to focus on the actual process that is followed to retrieve root access during the CTF journeys, with some basic narration along the way. You shouldn't find any information in the scripts that give away users or usernames. This is not hard coded. The script should simulate the process of retrieving this information and then apply it dynamically. The exception to this is when we are using default credentials, but this is common practice.
+
+## HTB WriteupScrips
+### Cap
+<video width="800" height="600" src="https://github.com/4nd0ze/WriteupScripts/blob/main/HTB/HTB-CAP-Machine.ogv" controls></video>
+
