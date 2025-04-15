@@ -3,5 +3,5 @@ My writeup scripts are designed to supplement the hard work and dedication of th
 
 ## HTB WriteupScrips
 ### Cap
-<video width="800" height="600" src="https://github.com/4nd0ze/WriteupScripts/blob/main/HTB/HTB-CAP-Machine.ogv" controls></video>
+<video width="800" height="600" src="https://github.com/4nd0ze/WriteupScripts/blob/main/HTB/HTB-CAP-Machine.mp4" controls></video>
 
