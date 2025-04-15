@@ -1,1 +1,0 @@
-# HTB Writeup Scripts
